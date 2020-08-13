@@ -129,6 +129,10 @@ I also tried 200 while using 200 for the embedding dimension.
 
 I chose `Embedding dimension = 300` and `Hidden dimension = 300` because their training loss was slightly better than for lower values while almost not affecting the training time. 
 
+## Authors
+
+* Rishabh Srivastava
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
